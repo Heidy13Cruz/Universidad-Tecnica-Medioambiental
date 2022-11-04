@@ -23,3 +23,71 @@ details p{
     text-align: justify;
 }
 
+h1{
+    text-align: center;
+}
+
+.clases1{
+    display: flex;
+    justify-content: space-around;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+#c1{
+    background-color: violet;
+    width: 30%;
+    height: max-content;
+}
+
+#c2{
+    background-color: aquamarine;
+    width: 30%;
+    height: max-content;
+}
+
+#c3{
+    background-color: burlywood;
+    width: 30%;
+    height: max-content;
+}
+
+main summary{
+    list-style: none;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+main p{
+    font-size: 16px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.clases2{
+    display: flex;
+    justify-content: space-around;
+    font-size: 26px;
+    padding-top: 2%;
+    font-weight: bold;
+}
+
+#c4{
+    background-color: rgb(211, 18, 163);
+    width: 30%;
+    height: max-content;
+}
+
+#c5{
+    background-color: rgb(56, 126, 231);
+    width: 30%;
+    height: max-content;
+}
+
+#c6{
+    background-color: rgb(83, 235, 52);
+    width: 30%;
+    height: max-content;
+}
+
