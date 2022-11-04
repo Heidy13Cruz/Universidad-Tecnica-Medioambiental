@@ -1,0 +1,25 @@
+
+#oa{
+    background-image: url(./img/fondo.jpg);
+    width: 297px;
+    height: 145px;
+}
+
+header{
+    background-color:#FCFCFC ;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+header summary{
+    margin-top: 60px;
+    list-style: none;
+}
+
+details p{
+    width: 297px;
+    height: 145px;
+    text-align: justify;
+}
+
