@@ -1,11 +1,7 @@
-
-#oa{
-    background-image: url(./img/fondo.jpg);
-    width: 297px;
-    height: 145px;
-}
-
 header{
+    height: 140px;
+    background-image: url(./img/fondo.jpg);
+    background-repeat: no-repeat;
     background-color:#FCFCFC ;
     display: flex;
     justify-content: space-around;
@@ -132,4 +128,14 @@ fieldset p{
     margin-left: 0%;
 }
 
+footer{
+    margin-top: 35px;
+    background-image: url(./img/fondo.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 100px;
+}
 
+footer p{
+    padding-top: 3%;
+}
