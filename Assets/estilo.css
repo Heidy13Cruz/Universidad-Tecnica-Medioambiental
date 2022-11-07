@@ -91,5 +91,45 @@ main p{
     height: max-content;
 }
 
+h4{
+    text-align: center;
+    color: whitesmoke;
+}
+
+h3{
+    padding-top: 25px;
+    margin-top: 20px;
+    margin-bottom: 0%;
+    color: whitesmoke;
+    background-color: #0a9b17;
+    text-align: center;
+}
+
+.sedes{
+    background-color: #0a9b17;
+    width: 90%;
+    padding-bottom: 5%;
+    padding-right: 10%;
+}
+
+#sede1{
+    display: flex;
+    width: 100%;
+    margin-left: 36px;
+    padding-top: 5%;
+}
+
+fieldset{
+    border-style: solid;
+}
+
+#sede1 img{
+    width: 600px;
+}
+fieldset p{
+    text-align: justify;
+    color: whitesmoke;
+    margin-left: 0%;
+}
 
 
